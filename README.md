@@ -1,6 +1,6 @@
 # Informarion supplémantaire:
 
-projet e-commerce -Full-stack: -en back-end avec:(Java) framwork spring boot le lien:
+projet e-commerce -Full-stack: -en back-end avec:(Java) framwork spring boot le lien: ##
                                -en front-end avec angular
                               
                                
