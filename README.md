@@ -1,3 +1,10 @@
+# Informarion supplémantaire:
+
+projet e-commerce -Full-stack: -en back-end avec:(Java) framwork spring boot le lien:
+                               -en front-end avec angular
+                              
+                               
+                  
 # AngularEcommerce
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.26.
