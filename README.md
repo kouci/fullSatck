@@ -1,4 +1,4 @@
-# Informarion supplémantaire:
+# Informarion supplémantaire: amazing project
 
 projet e-commerce Full-stack: -en back-end avec:(Java) framwork spring boot le lien:https://github.com/kouci/backEnd.git 
                                -en front-end avec angular
